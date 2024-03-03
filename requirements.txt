@@ -1,4 +1,0 @@
-beautifulsoup4==4.11.1
-pandas==2.2.1
-python-telegram-bot==20.8
-Requests==2.31.0
